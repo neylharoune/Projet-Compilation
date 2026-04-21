@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "projet-mapile/lib/antlr-3.5.2-complete.jar",
+        "projet-mapile/lib/libIO.jar",
+        "projet-mapile/lib/libMapile.jar"
+    ]
+}
