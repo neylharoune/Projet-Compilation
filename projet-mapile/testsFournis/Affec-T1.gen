@@ -1,0 +1,17 @@
+FICHIER testsFournis\Affec-T1.gen : 
+
+   1  reserver        2
+   3  reserver        2
+   5  empiler         1
+   7  empiler         0
+   9  et        
+  10  affecterg       3
+  12  empiler         0
+  14  non       
+  15  affecterg       2
+  17  empiler         0
+  19  empiler         1
+  21  et        
+  22  empiler         0
+  24  ou        
+  25  affecterg       3

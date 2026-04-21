@@ -1,0 +1,18 @@
+FICHIER testsFournis\Si-T1.gen : 
+
+   1  reserver        2
+   3  empiler         2
+   5  affecterg       0
+   7  contenug        0
+   9  empiler         0
+  11  eg        
+  12  bsifaux        20
+  14  empiler        10
+  16  affecterg       0
+  18  bincond        27
+  20  empiler         5
+  22  affecterg       0
+  24  empiler         5
+  26  ecrent    
+  27  empiler         1
+  29  ecrent    

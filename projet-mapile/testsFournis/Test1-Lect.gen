@@ -1,0 +1,12 @@
+FICHIER testsFournis\Test1-Lect.gen : 
+
+   1  reserver        2
+   3  reserver        2
+   5  lirent    
+   6  affecterg       0
+   8  lirebool  
+   9  affecterg       3
+  11  lirebool  
+  12  affecterg       2
+  14  lirebool  
+  15  affecterg       3

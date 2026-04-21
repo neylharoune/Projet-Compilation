@@ -1,0 +1,30 @@
+FICHIER projet-mapile\testsFournis\monCond.gen : 
+
+   1  reserver        4
+   3  bincond        35
+   5  reserver        1
+   7  contenul        0   0
+  10  contenul        1   0
+  13  add       
+  14  affecterl       6   0
+  17  contenul        6   0
+  20  affecterl       2   1
+  23  contenul        0   0
+  26  contenul        1   0
+  29  mul       
+  30  affecterl       3   1
+  33  retour          4
+  35  empiler         5
+  37  affecterg       0
+  39  empiler         4
+  41  affecterg       1
+  43  contenug        0
+  45  contenug        1
+  47  empileradg      2
+  49  empileradg      3
+  51  appel           5   4
+  54  contenug        2
+  56  ecrent    
+  57  contenug        3
+  59  ecrent    
+  60  arret     
